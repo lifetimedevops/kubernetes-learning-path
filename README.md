@@ -329,4 +329,4 @@ Some popular GitOps-based tools for deploying applications to Kubernetes cluster
 # Hit the Star! ⭐
 ***If you are planning to use this repo for learning, please hit the star. Thanks!***
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### Author by LifeTimeDevOps
